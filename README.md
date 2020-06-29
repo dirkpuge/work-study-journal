@@ -10,4 +10,7 @@ Completed sections "Responsive Web Design Principles" "CSS Flexbox" and "CSS Gri
 Set up the enviroments to complete my final web design projects.
 
 ### June 28th
-Completed first of 4 final projects "Tribute Page", launched on vercel.app
+Completed first of 5 final projects "Tribute Page", launched on vercel.app
+
+### June 29th
+Began second of 5 final projects in freeCodeCamp
