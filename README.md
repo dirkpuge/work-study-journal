@@ -20,3 +20,6 @@ Completed second of 5 final projects "Survey Form", launched on vercel.app
 
 ### July 2nd
 Began third of 5 final projects in freeCodeCamp
+
+### July 3rd
+Completed third of 5 final projects"Product Landing Page"
