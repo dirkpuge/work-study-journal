@@ -14,3 +14,9 @@ Completed first of 5 final projects "Tribute Page", launched on vercel.app
 
 ### June 29th
 Began second of 5 final projects in freeCodeCamp
+
+### July 1st
+Completed second of 5 final projects "Survey Form", launched on vercel.app
+
+### July 2nd
+Began third of 5 final projects in freeCodeCamp
