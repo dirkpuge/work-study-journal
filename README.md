@@ -23,3 +23,6 @@ Began third of 5 final projects in freeCodeCamp
 
 ### July 3rd
 Completed third of 5 final projects"Product Landing Page"
+
+### July 5th
+Started and completed the fourth of 5 final projects "Technical Documentation Page"
